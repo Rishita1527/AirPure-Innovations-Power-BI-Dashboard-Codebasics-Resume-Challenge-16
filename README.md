@@ -43,14 +43,10 @@ Click here to explore the interactive **[Power BI Dashboard](https://app.powerbi
 **7. Competitive Landscape & Key Features**
 
 
-<img width="1263" height="708" alt="Screenshot 2025-08-10 215019" src="https://github.com/user-attachments/assets/73d7d9a6-2f75-4ac2-a1d6-59b35a2af499" />
-
-
-
-
-
+<img width="1263" height="708" alt="Screenshot 2025-08-10 215019" src="https://github.com/user-attachments/assets/73d7d9a6-2f75-4ac2-a1d6-59b35a2af499" /> <br><br>
 
 **🛠 Tools & Skills Used**
+
 **Power BI** – Data modeling, DAX measures, interactive dashboard design.
 
 **Excel** – Initial data exploration, dataset review, and preparation.
