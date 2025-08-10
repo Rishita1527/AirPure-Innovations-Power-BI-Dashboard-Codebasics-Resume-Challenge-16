@@ -48,3 +48,14 @@ Click here to explore the interactive **[Power BI Dashboard](https://app.powerbi
 
 
 
+
+
+**🛠 Tools & Skills Used**
+**Power BI** – Data modeling, DAX measures, interactive dashboard design.
+
+**Excel** – Initial data exploration, dataset review, and preparation.
+
+**Power Query** – Data cleaning, transformation, and combining multiple datasets.
+
+
+
